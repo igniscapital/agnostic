@@ -203,6 +203,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.link__asTfu
                 )}
                 component={Link}
+                href={"https://t.me/agnosticsol"}
                 platform={"nextjs"}
               >
                 <TelegramFillSvgrepoComsvgIcon
@@ -217,6 +218,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.link___2XG4
                 )}
                 component={Link}
+                href={"https://x.com/agnosticsolana"}
                 platform={"nextjs"}
               >
                 <TwitterRoundsvgIcon
