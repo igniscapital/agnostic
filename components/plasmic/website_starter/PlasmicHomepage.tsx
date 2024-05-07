@@ -238,7 +238,7 @@ function PlasmicHomepage__RenderFunc(props: {
               displayWidth={"auto"}
               loading={"lazy"}
               src={{
-                src: "/plasmic/website_starter/images/untitledDesign2Png.png",
+                src: "/plasmic/website_starter/images/untitledDesign3Png.png",
                 fullWidth: 1080,
                 fullHeight: 1080,
                 aspectRatio: undefined
